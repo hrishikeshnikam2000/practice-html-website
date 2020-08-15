@@ -1,0 +1,43 @@
+
+body{
+    background-color : #d1eaa3;
+    color: #235952;
+    }
+
+    h1{
+        color: #66bfbf;
+    }
+
+    h3{
+        color: #1b6ca8;
+    }
+
+    h2{
+        color: #abc2e8;
+    }
+        
+hr{
+        background-color: blanchedalmond;
+        border-style: dotted none none;
+        border-color: gray;
+        border-width: 2px;
+        border-spacing: 1px;
+        width: 5%;
+    }
+
+img{
+        height: 250px;
+    }
+
+/* img:hover{ */
+    /* background-color: royalblue; */
+/* } */
+
+
+/* 
+class selector =   .class{ property : quantity}  (can be classed/grouped Together) name vs fingerprint  
+eg class = "brocoli circular"  brocolli different class and circular different class
+
+id seklectors =    #id{    property : quantity}  (needs to be unique)
+eg id = "heading big" heading can be a id  big is not beacuse they only accept one.
+*/
